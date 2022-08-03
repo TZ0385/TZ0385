@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DA</h1>
 <h3 align="center">A passionate migrant worker from China</h3>
 <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=DA&show_icons=true"></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guandongershen&label=Profile%20views&color=0e75b6&style=flat" alt="guandongershen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guandongershen&label=Profile%20views&color=0e75b6&style=flat" alt="guandongershen" /><img src="https://github-readme-stats.vercel.app/api?username=DA&show_icons=true"> </p>
 
 - 📝 I regularly write articles on [Blog](https://blog.csdn.net/slavik_)
 
