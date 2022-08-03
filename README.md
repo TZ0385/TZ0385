@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm DA</h1>
 <h3 align="center">一个不愿透漏姓名的靓仔！</h3>
+My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) visitor
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guandongershen&label=Profile%20views&color=0e75b6&style=flat" alt="guandongershen" /> </p>
 
 - 📝 I regularly write articles on [Blog](https://blog.csdn.net/slavik_)
