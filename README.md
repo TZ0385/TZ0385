@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guandongershen&label=Profile%20views&color=0e75b6&style=flat" alt="guandongershen" /> </p>
 
-- 📝 I regularly write articles on [https://blog.csdn.net/slavik_?type=blog](https://blog.csdn.net/slavik_)
+- 📝 I regularly write articles on [Blog](https://blog.csdn.net/slavik_)
 
 - 📫 How to reach me **admin@admin.com**
 <p align="left">
