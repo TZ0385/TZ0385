@@ -6,8 +6,6 @@
 - 📝 I regularly write articles on [https://blog.csdn.net/slavik_?type=blog](https://blog.csdn.net/slavik_?type=blog)
 
 - 📫 How to reach me **admin@admin.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
