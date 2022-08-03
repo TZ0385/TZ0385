@@ -11,7 +11,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DA&show_icons=true&theme=tokyonight)
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=DA&theme=xcode" /> </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzivv&show_icons=true&theme=vue)
 
