@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm DA</h1>
+<h1 align="center">
+If you are poor, you will change. If you change, you will be able to understand.
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guandongershen&label=Profile%20views&color=0e75b6&style=flat" alt="guandongershen" /> </p>
 
 - 📝 I regularly write articles on [Blog](https://blog.csdn.net/slavik_)
